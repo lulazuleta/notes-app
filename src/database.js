@@ -5,5 +5,5 @@ mongoose.connect('mongodb://localhost/notes-db-app',{
   useNewUrlParser: true,
   useFindAndModify: false
 })
-.then(db => console.log('La BD esta conectada'))
+.then(db => console.log('DB conectada'))
 .catch(err => console.error(err));

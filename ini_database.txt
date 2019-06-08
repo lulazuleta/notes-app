@@ -1,18 +1,1 @@
 sudo service mongod start
-# Notes-App
-
-_Notes webpage with users using nodejs_
-
-### Pre-Requirements 📋
-
-_In addition to having installed node js, the following modules are needed media npm_
-
-```
-npm i bcryptjs connect-flash express-handlebars express-session method-override moongose nodemon -D passport passport-local
-```
-
-## Built With 🛠️
-
-* [Express] (https://expressjs.com/es/) - Framework
-* [MongoDB] (https://www.mongodb.com/es) - DataBase
-* [Handlebars] (https://handlebarsjs.com/) - Template engine
