@@ -8,29 +8,27 @@
           <li class="nav-item active">
             <a class="nav-link" href="/"><i class="fas fa-home fa-lg"></i> Home <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/about"> <i class="far fa-address-card fa-lg"></i> About</a>
-          </li>
+         
       </ul>
       <ul class="navbar-nav ml-auto">
         {{#if user}}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Notas 
+              <i class="far fa-sticky-note fa-lg"></i> Notas 
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="/notes">Todas las notas</a>
-              <a class="dropdown-item" href="/notes/add">Agregar una nota</a>
+              <a class="dropdown-item" href="/notes"><i class="fas fa-book-open"></i> Todas las notas</a>
+              <a class="dropdown-item" href="/notes/add"><i class="fas fa-plus-circle fa-lg"></i> Agregar una nota</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/users/logout">Salir</a>
+              <a class="dropdown-item" href="/users/logout"><i class="fas fa-sign-out-alt fa-lg"></i> Salir</a>
             </div>
           </li>
         {{else}}
           <li class="nav-item">
-            <a class="nav-link" href="/users/signin">Iniciar Sesion</a>
+            <a class="nav-link" href="/users/signin"><i class="fas fa-sign-in-alt fa-lg"></i> Iniciar Sesion</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/users/signup">Registrarse</a>
+            <a class="nav-link" href="/users/signup"><i class="fas fa-user-plus fa-lg"></i> Registrarse</a>
           </li>
         {{/if}}
       </ul>
