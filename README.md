@@ -27,6 +27,10 @@ localhost: 4000
 * [MongoDB] (https://www.mongodb.com/) - NoSQL Database
 
 ## Screenshot 📌
-
+![alt text](https://github.com/franciscopugh/notes-app/blob/master/docs/Captura%20de%20pantalla%20de%202019-06-15%2000-24-40.png)
+![alt text](https://github.com/franciscopugh/notes-app/blob/master/docs/Captura%20de%20pantalla%20de%202019-06-15%2000-23-43.png)
+![alt text](https://github.com/franciscopugh/notes-app/blob/master/docs/Captura%20de%20pantalla%20de%202019-06-15%2000-24-20.png)
+![alt text](https://github.com/franciscopugh/notes-app/blob/master/docs/Captura%20de%20pantalla%20de%202019-06-15%2000-25-04.png)
+![alt text](https://github.com/franciscopugh/notes-app/blob/master/docs/Captura%20de%20pantalla%20de%202019-06-15%2000-27-18.png)
 
 
