@@ -10,7 +10,7 @@ _In addition to having installed nodejs and mongodb, you will need to have insta
 ```
 npm i express express-session express-handlebars bcryptjs passport passport-local connect-flash method-override mongoose nodemon -D
 ```
-## Running the tests
+## Running the tests ⌨️
 _After copying the project in your machine open the terminal in the location of the files and type the following commands:_
 ```
 - mongod (in windows) // sudo service mongod start (in unix)
@@ -26,4 +26,7 @@ localhost: 4000
 * [Handlebars] (https://handlebarsjs.com/) - Template Engine
 * [MongoDB] (https://www.mongodb.com/) - NoSQL Database
 
-## Screenshot ⌨️
+## Screenshot 📌
+
+
+
