@@ -8,7 +8,7 @@ _Notes web page with validation of users using nodejs and mongodb_
 _In addition to having installed nodejs and mongodb, you will need to have installed the following modules by npm_
 
 ```
-npm i express express-session express-handlebars bcryptjs passport passport-local connect-flash method-override mongoose nodemon -D
+npm i express express-session express-handlebars bcryptjs passport passport-local connect-flash method-override mongoose
 ```
 ## Running the tests ⌨️
 _After copying the project in your machine open the terminal in the location of the files and type the following commands:_
